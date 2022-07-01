@@ -1,0 +1,30 @@
+h1{
+  color: palevioletred;
+  background-color: black;
+  text-align: center;
+  letter-spacing: 1px;
+  font-family: cursive;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+  
+p{
+  color: palevioletred;
+  font-family: cursive;
+  letter-spacing: 1px;
+  
+}
+img{
+  float: right;
+  border-style:double;
+  border-color: red;
+  
+  
+}
+body{
+  background-color: aqua;
+}
+  
+  
+
